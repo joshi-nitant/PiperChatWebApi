@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiperChatWebApi", "PiperChatWebApi.csproj", "{634527B3-8769-437F-AC3C-D8E6400288AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634527B3-8769-437F-AC3C-D8E6400288AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634527B3-8769-437F-AC3C-D8E6400288AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634527B3-8769-437F-AC3C-D8E6400288AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634527B3-8769-437F-AC3C-D8E6400288AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E40C2B-9B3F-4DA3-BCF0-6C12240DD52A}
+	EndGlobalSection
+EndGlobal
